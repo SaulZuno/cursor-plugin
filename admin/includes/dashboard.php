@@ -1,7 +1,7 @@
 <?php
 wp_enqueue_script( 'ebck_functions_dashboard', plugin_dir_url( __FILE__ ) . 'js/functions.js', array ( 'jquery' ), 1.1, true);
 ?>
-<div>Saúl Zuno Sahagún</div>
+<div>MyPlugin</div>
 <div>Efectos</div>
 <select name="" id="efectos">
 <option value="estrellas">Estrellas</option>
